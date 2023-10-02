@@ -1,0 +1,75 @@
+Incorrect
+Correct
+Incorrect
+Correct
+Incorrect (since oracle not among the candidates)
+Correct
+Correct
+Incorrect (since oracle not among the candidates)
+Correct
+Incorrect
+Incorrect
+Correct
+Incorrect
+Incorrect
+Incorrect (since oracle not among the candidates)
+Incorrect (since oracle not among the candidates)
+Incorrect (since oracle not among the candidates)
+Correct
+Correct
+Incorrect
+Incorrect
+Incorrect
+Incorrect
+Incorrect
+Incorrect (since oracle not among the candidates)
+Correct
+Correct
+Correct
+Incorrect (since oracle not among the candidates)
+Correct
+Correct
+Correct
+Correct
+Correct
+Incorrect
+Incorrect
+Correct
+Correct
+Incorrect
+Correct
+Correct
+Incorrect
+Correct
+Incorrect (since oracle not among the candidates)
+Incorrect
+Incorrect
+Incorrect
+Correct
+Incorrect (since oracle not among the candidates)
+Correct
+Incorrect (since oracle not among the candidates)
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Incorrect (since oracle not among the candidates)
+Correct
+Incorrect (since oracle not among the candidates)
+Incorrect (since oracle not among the candidates)
+Incorrect
+Correct
+Correct
+Incorrect
+Correct
+
+Total:
+Correct: 37
+Incorrect: 20
+Incorrect (since oracle not among the candidates): 13
